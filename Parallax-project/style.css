@@ -1,0 +1,71 @@
+*{
+    margin:0px;
+    padding:0px;
+}
+.imagem{
+    background-image:url("dragao-animado.jpg");
+    min-height: 1200px;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+}
+.posicao{
+    position:absolute;
+    top:50%;
+    width:100%;
+    text-transform: uppercase;
+    text-align: center;
+    
+    
+}
+h1{
+    letter-spacing: 8px;
+    font-size: 50px;
+    display:inline;
+    background-color:#861F20;
+    
+}
+section{
+    
+    text-align: center;
+    background-color: #861F20;
+    font-size: 30px;
+    
+}
+#imagem2{
+   
+    background-image:url("competicao.jpg");
+    min-height: 1200px;
+    background-position:center;
+    background-repeat:no-repeat;
+    background-size:cover;
+    background-attachment:fixed;
+
+}
+ #texto{
+    font-size:25px;
+    background-color:#861F20;
+    text-align: left;
+    
+
+ }
+#centro{
+    text-align: center;
+}
+li::before{
+    content: "•";
+
+}
+li{
+    margin-top: 10px ;
+}
+#imagem3{
+    background-image:url("zongzi.jpg");
+    min-height: 1200px;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+
+}

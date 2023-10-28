@@ -1,0 +1,51 @@
+*{
+    margin:0px;
+    padding:0px;
+}
+#imagem{
+    background-image:url("vista-noturna-de-xangai-china.jpg");
+    min-height: 1000px;
+    background-repeat:no-repeat;
+    background-size:cover;
+    background-attachment: fixed;
+    background-position: center;
+}
+#posicao{
+position: absolute;
+top:50%;
+width:100%;
+text-transform: uppercase;
+text-align: center;
+
+
+}
+h1{
+    background-size: 20px;
+    font-size: 50px;
+    display: inline;
+    background-color: #5f5d5d;
+    
+}
+section{
+    
+    text-align: center;
+    background-color: #3F396B;
+    font-size: 30px;
+    
+}
+#imagem2{
+    background-image:url("Xangai-gif3.gif");
+    min-height: 1000px;
+    background-repeat:no-repeat;
+    background-size:cover;
+    background-attachment: fixed;
+    background-position: center;
+}
+#imagem3{
+    background-image:url("coloridao-xangai.jpg");
+    min-height: 1000px;
+    background-repeat:no-repeat;
+    background-size:cover;
+    background-attachment: fixed;
+    background-position: center;
+}
